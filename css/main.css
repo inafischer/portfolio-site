@@ -92,11 +92,16 @@ header {
 
 .header_featured_work {
     color: #7d97ad;
+    padding-bottom: 1%;
 }
 
 .projects-all {
     display: flex;
     flex-wrap: wrap;
+  }
+
+.project1, .project2, .project3 {
+      padding-bottom: 2%;
   }
 
 .project_thumbnail {
