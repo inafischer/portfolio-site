@@ -145,3 +145,11 @@ header {
     order: 2;
   }
 }
+
+@media screen and (min-width: 850px) {
+  header, main, .content {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
