@@ -40,7 +40,7 @@ header {
   border-bottom: solid;
   border-color: #7d97ad;
   padding: 1%;
-  }
+}
 
 .logo_container {
   order: 1;
@@ -62,12 +62,11 @@ header {
   padding-right: 0.5em;
 }
 
-
- /*
-  *
-  * Main
-  *
-  */
+/*
+ *
+ * Main
+ *
+ */
 
 /*
  *
@@ -86,11 +85,11 @@ header {
   padding-bottom: 10px;
 }
 
-.featured_work {
+.my_work {
   padding: 1%;
 }
 
-.header_featured_work {
+.header_my_work {
   color: #7d97ad;
   padding-bottom: 1%;
 }
@@ -98,34 +97,31 @@ header {
 .projects-all {
   display: flex;
   flex-wrap: wrap;
-  }
+}
 
 .project1, .project2, .project3 {
   padding-bottom: 2%;
-  }
+}
 
 .project_thumbnail {
   width: 100%;
   order: 0;
-  }
+}
 
 .project_description {
-  order: 1;
   width: 100%;
+  order: 1;
 }
 
 .project_link {
   order: 2;
 }
 
-
 /*
  *
  * Responsive
  *
  */
-
-
 
 @media screen and (min-width: 600px) {
   .project1 {
