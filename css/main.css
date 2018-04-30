@@ -42,7 +42,7 @@ header {
   padding: 1%;
 }
 
-.logo_container {
+.logo-container {
   order: 1;
   width: 10%;
   height: 10%;
@@ -50,12 +50,12 @@ header {
   padding-top: 0.5em;
 }
 
-.header_logo {
+.header-logo {
   width: 90%;
   height: 90%;
 }
 
-.header_inner {
+.header-inner {
   order: 2;
   width: 90%;
   text-align: right;
@@ -79,17 +79,17 @@ header {
   flex-wrap: wrap;
 }
 
-.hero_image {
+.hero-image {
   max-width: 100%;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-.my_work {
+.my-work {
   padding: 1%;
 }
 
-.header_my_work {
+.header-my-work {
   color: #7d97ad;
   padding-bottom: 1%;
 }
@@ -103,17 +103,17 @@ header {
   padding-bottom: 2%;
 }
 
-.project_thumbnail {
+.project-thumbnail {
   width: 100%;
   order: 0;
 }
 
-.project_description {
+.project-description {
   width: 100%;
   order: 1;
 }
 
-.project_link {
+.project-link {
   order: 2;
 }
 
